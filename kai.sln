@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B23DFF15-E24F-4FEB-972A-C1EC5350BBBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kai", "src\Kai\Kai.csproj", "{B73D14CA-6F82-4E49-BD71-45AF07F5F929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B73D14CA-6F82-4E49-BD71-45AF07F5F929} = {B23DFF15-E24F-4FEB-972A-C1EC5350BBBF}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B73D14CA-6F82-4E49-BD71-45AF07F5F929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B73D14CA-6F82-4E49-BD71-45AF07F5F929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B73D14CA-6F82-4E49-BD71-45AF07F5F929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B73D14CA-6F82-4E49-BD71-45AF07F5F929}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

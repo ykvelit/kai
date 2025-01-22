@@ -1,0 +1,6 @@
+@Kai_HostAddress = http://localhost:5008
+
+
+GET {{Kai_HostAddress}}/api/dynamic-query-params?oi=asd&pq=adasdasdasdasd&cara=13%20weqr
+
+###
